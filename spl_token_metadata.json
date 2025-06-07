@@ -1,6 +1,6 @@
 {
-    "name": "",
-    "symbol": "",
-    "description": "",
-    "image": ""
+    "name": "Test Solana",
+    "symbol": "TSOL",
+    "description": "Test Solana",
+    "image": "https://raw.githubusercontent.com/shivakrishna1995/files/refs/heads/main/spl_token_logo.png"
 }
